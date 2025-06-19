@@ -18,3 +18,5 @@ Feito com o objetivo de consolidar conhecimentos em manipulação de DOM, evento
 - ⚙️ JavaScript  
 
 ---
+## Projeto em tempo real
+https://medidor-idade.netlify.app/

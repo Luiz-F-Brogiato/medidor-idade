@@ -37,7 +37,8 @@ function verificar() {
                 img.setAttribute('src', 'idoso-feminino.png');
             }
         }
-        res.innerHTML = `Nascido(a) em ${idade}.`
+        let ano-nascimento = 2000 - idade;
+        res.innerHTML = `Nascido(a) em ${ano-nascimento}.`;
         res.appendChild(img);
        
     }
